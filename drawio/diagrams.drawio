@@ -4,7 +4,7 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="36" value="Impfzertifikatsservice Frontend" style="shape=agent;offsetSize=8;strokeWidth=2;" vertex="1" parent="1">
+                <mxCell id="36" value="Impfzertifikatsservice Frontend" style="shape=agent;offsetSize=8;strokeWidth=2;verticalAlign=bottom;" vertex="1" parent="1">
                     <mxGeometry x="220" y="378" width="660" height="132" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="8">
@@ -137,7 +137,7 @@
                 <mxCell id="33" value="TODO" style="shape=agent;offsetSize=8;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
                     <mxGeometry x="30" y="810" width="170" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="Telmatik Systems" style="shape=agent;offsetSize=8;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                <mxCell id="34" value="Telematik Systems" style="shape=agent;offsetSize=8;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
                     <mxGeometry x="30" y="850" width="170" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="Already part of ere.health" style="shape=agent;offsetSize=8;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
