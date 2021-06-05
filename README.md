@@ -1,5 +1,9 @@
 # Impfzertifikatsservice Frontend
 
+# Screenshot
+
+![](img/COVID-19-Form.png)
+
 # Architecture
 
 ![](img/overview.png)
