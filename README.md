@@ -4,6 +4,12 @@
 
 ![](img/COVID-19-Form.png)
 
+# YouTube Video
+
+[![](img/youtube.png)](https://www.youtube.com/watch?v=C0KfzxP-HzU)
+
+The link above takes you to a german demo video.
+
 # Architecture
 
 ![](img/overview.png)
