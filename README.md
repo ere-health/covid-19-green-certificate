@@ -10,6 +10,17 @@
 
 The link above takes you to a german demo video.
 
+# Code
+
+https://github.com/ere-health/dgc-ps-app
+
+# REST API
+
+OpenAPI Specification: https://github.com/ere-health/dgc-ps-app/blob/main/doc/dgc-openapi-yaml
+
+Example:
+http://localhost:8080/api/certify/v2/issue?fn=Manuel&gn=Blechschmidt&dob=1986-07-16&id=BSNR-ARZT&tg=840539006&vp=11193050005&mp=EU/1/20/1528&ma=ORG-100030215&dn=1&sd=1&dt=2021-07-13
+
 # Architecture
 
 ![](img/overview.png)
